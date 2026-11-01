@@ -1,0 +1,6 @@
+{
+    "Test Case 1: People Table App - UI renders: title, , empty state": "TEST_STATUS_SUCCESS",
+    "Test Case 2: People Table App - UI renders: inputs, buttons": "TEST_STATUS_SUCCESS",
+    "Test Case 3: People Table App - should be able to add a data": "TEST_STATUS_SUCCESS",
+    "Test Case 4: People Table App - should be able to remove a data": "TEST_STATUS_SUCCESS"
+}

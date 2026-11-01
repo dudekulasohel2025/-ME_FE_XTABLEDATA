@@ -1,6 +1,6 @@
 describe("People Table App", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:5173"); // change to your app URL
+    cy.visit("https://mefextabledata.vercel.app/"); // change to your app URL
   });
   
   it("UI renders: title, , empty state", () => {
